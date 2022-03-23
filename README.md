@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hello5423
 - 👀 I’m interested in learning new technologies about programming
 - 🌱 I’m currently learning Nestjs.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Please give my project a star if you felt it useful.
 
 <!---
 hello5423/hello5423 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
