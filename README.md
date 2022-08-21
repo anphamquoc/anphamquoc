@@ -48,10 +48,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-<div align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello5423&layout=compact&theme=vision-friendly-dark" />
-  <img height="200" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hello5423&theme=dark&background=000000" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello5423&layout=compact&theme=vision-friendly-dark" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hello5423&theme=dark&background=000000" />
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello5423)](https://github.com/anuraghazra/github-readme-stats) -->
 
