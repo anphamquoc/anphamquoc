@@ -45,10 +45,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hello5423&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello5423&layout=compact&theme=vision-friendly-dark" />
+  <img height="200" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hello5423&theme=dark&background=000000" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello5423&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello5423)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
-### ✍️ Blog Posts : 
+### 🏆 Achievement : 
+- 🏅TOP 1 FPT TECHDAY 2020_CODE WARRIOR_QUALIFYING ROUND
+- 🏅TOP 6 FPT TECHDAY 2020_CODE WARRIOR_FINAL ROUND
